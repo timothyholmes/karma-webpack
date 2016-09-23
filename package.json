@@ -1,5 +1,5 @@
 {
-  "name": "karma-webpack",
+  "name": "karma-webpack-node10",
   "version": "1.8.0",
   "author": "Tobias Koppers @sokra",
   "description": "Use webpack with karma",
@@ -35,7 +35,7 @@
     "loader-utils": "^0.2.5",
     "lodash": "^3.8.0",
     "source-map": "^0.1.41",
-    "webpack-dev-middleware": "^1.0.11"
+    "webpack-dev-middleware": "1.8.1"
   },
   "devDependencies": {
     "add-stream": "^1.0.0",
